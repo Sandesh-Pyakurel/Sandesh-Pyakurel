@@ -1,17 +1,18 @@
-<h2 align="center">### Hi there 👋, Sandesh Pyakurel</h2>
-<p>I am a Computer Engineering student, currently studing at Pulchowk Campus.</p>
+<h2 align="center">Hi there 👋, Sandesh Pyakurel</h2>
+<h3 align="center">About Me<h3>
+<p align="center">I am a Computer Engineering student, currently studing at Pulchowk Campus.</p>
 
 <p align="center">
-    <a href="https://linkedin.com/in/sandesh-pyakurel-714394154" target="blank"
-    ><img
+    <a href="https://linkedin.com/in/sandesh-pyakurel-714394154" target="blank">
+        <img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
         alt="sandesh-pyakurel-714394154"
         height="30"
         width="40"
     /></a>
-      <a href="https://github.com/Sandesh-Pyakurel" target="blank"
-    ><img
+      <a href="https://github.com/Sandesh-Pyakurel" target="blank">
+    <img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
         alt="sandeshpyakurel"
@@ -22,7 +23,7 @@
 
 <br />
 <br />
-
+<hr>
 <p align="center">
 <img
     src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white"
@@ -48,21 +49,11 @@
     alt="Django"
 />
 <img
-    src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white"
+    src="https://img.shields.io/badge/sql-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white"
     alt="NodeJS"
 />
-<img
-    src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB"
-    alt="Express.js"
-/>
 </p>
-
+<hr>
 <br/>
 <br/>
 
-<p align="center">
-  <img
-    src="https://github.com/SandeshPyakurel/SandeshPyakurel/blob/actions/profile-3d-contrib/profile-night-rainbow.svg"
-    alt="Github Stat Summary"
-  />
-</p>
