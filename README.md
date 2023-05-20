@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋, Sandesh Pyakurel</h2>
 <h3 align="center">About Me<h3>
-<p align="center">I am a Computer Engineering student, currently studing at Pulchowk Campus.</p>
+<p align="center"><h5>I am a Computer Engineering student, currently studing at Pulchowk Campus.</h5></p>
 
 <p align="center">
     <a href="https://linkedin.com/in/sandesh-pyakurel-714394154" target="blank">
